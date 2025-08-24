@@ -8,7 +8,7 @@ function main
     clear;
     close all;
     
-    image_filename = 'Y1.jpg'; 
+    image_filename = 'Y58.jpg'; 
     original_img = imread(image_filename);
     
     % segmentation: isolate the tumor using a more robust method
