@@ -24,7 +24,8 @@ classify it as **Benign** or **Malignant** based on boundary variance.
 
 Here is an example of the program output:
 
-![Tumor Detection Result](output_example.png)(output_result_2.png)
+![Tumor Detection Result](output_example.png)
+![Tumor Detection Result 2](output_result_2.png)
 
 ## Dataset
 
