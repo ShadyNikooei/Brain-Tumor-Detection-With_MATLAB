@@ -29,13 +29,13 @@ Here is an example of the program output:
 
 ![Tumor Detection Result 2](output_result_2.png) -->
 
-
+<p align="center">
 <img src="output_example.png" alt="Tumor Detection Result 1" width="600"/>
 
 <br><br>
 
 <img src="output_result_2.png" alt="Tumor Detection Result 2" width="600"/>
-
+</p>
 
 ## Dataset
 
