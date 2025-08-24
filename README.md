@@ -22,7 +22,7 @@ classify it as **Benign** or **Malignant** based on boundary variance.
 
 ## Output Example
 
-Here is an example of the program output:
+Here is some examples of the program output:
 
 <!--![Tumor Detection Result](output_example.png)
 
