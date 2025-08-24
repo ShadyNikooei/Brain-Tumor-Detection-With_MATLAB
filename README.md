@@ -30,7 +30,7 @@ Here is an example of the program output:
 
 The MRI images used for this project were taken from the **Kaggle Brain
 MRI Images Dataset**.\
-([dataset_Kaggle](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
+([dataset_Kaggle](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection))
 
 ## Important Note
 
